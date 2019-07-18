@@ -1,5 +1,5 @@
 class Login {
   Public Static void main(String args[])
   {
-	int a=300;
+	int a=400;
   }
